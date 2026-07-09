@@ -33,8 +33,7 @@ AI/ML enthusiast currently pursuing my B.Tech in Computer Science at Nirma Unive
 
 ```bash
 ROLE     = "AI/ML Engineer (Aspiring)"
-EXP      = "B.Tech CSE, Nirma University (2024–2028)"
-DOMAIN   = "Machine Learning · Deep Learning · Backend Systems"
+EXP      = "B.Tech AIML, Nirma University (2024–2028)"
 STACK    = "Python · C++ · TypeScript · PyTorch · TensorFlow · scikit-learn · FastAPI · React"
 OPEN_TO  = "Open to discussing relevant opportunities"
 ```
