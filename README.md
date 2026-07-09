@@ -19,10 +19,6 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aaryapatel9&color=FFB000&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/aaryapatel9?style=flat-square&color=FFB000&labelColor=0D1117&label=Followers)
-![Stars](https://img.shields.io/github/stars/aaryapatel9?style=flat-square&color=FFB000&labelColor=0D1117&label=Stars)
-
 </div>
 
 <br>
