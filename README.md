@@ -15,9 +15,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFB000?style=for-the-badge&logo=firefoxbrowser&logoColor=0D1117)](https://aaryarpatel.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB000?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/aarya-r-patel/)
 [![Email](https://img.shields.io/badge/Email-FFB000?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:patelaaryar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FFB000?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/aaryapatel9)
-
-<br>
 
 </div>
 
