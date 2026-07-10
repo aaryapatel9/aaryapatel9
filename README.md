@@ -55,19 +55,6 @@ OPEN_TO  = "Open to discussing relevant opportunities"
 
 <br>
 
-### `$ grep -r "specialization" .`
-
-<div align="center">
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
-![Backend Development](https://img.shields.io/badge/Backend%20Development-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
-
-</div>
-
-<br>
-
 ### `$ cat expertise.md`
 
 | Domain | Proficiency | Details |
@@ -78,18 +65,6 @@ OPEN_TO  = "Open to discussing relevant opportunities"
 | C++ | Intermediate | Core language, DSA & problem solving |
 | Frontend | Beginner–Intermediate | React, TypeScript, JavaScript |
 | Databases | Intermediate | PostgreSQL, SQL |
-
-<br>
-
-### `$ ls ~/projects`
-
-<details open>
-<summary><b>🚧 Projects — coming soon</b></summary>
-<br>
-
-No public projects have been added to this README yet. Rather than fill this space with placeholders, it's left honest and empty for now — check back soon, or reach out via the links above.
-
-</details>
 
 <br>
 
@@ -139,47 +114,11 @@ No public projects have been added to this README yet. Rather than fill this spa
 
 <br>
 
-### `$ ./trophies.sh`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aaryapatel9&theme=shadow_green&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
-<br>
-
 ### `$ ./activity_graph.sh`
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryapatel9&bg_color=0D1117&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14&hide_border=true" width="100%"/>
-
-</div>
-
-<br>
-
-### `$ ./summary_cards.sh`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=aaryapatel9&theme=github_dark" width="100%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=aaryapatel9&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=aaryapatel9&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=aaryapatel9&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=aaryapatel9&theme=github_dark" width="100%"/>
-
-</div>
-
-<br>
-
-### `$ ./contribution_snake.sh`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aaryapatel9/aaryapatel9/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>⚠️ Snake renders once the <code>platane/snk</code> GitHub Action workflow is added to this repo — see note below.</sub>
 
 </div>
 
