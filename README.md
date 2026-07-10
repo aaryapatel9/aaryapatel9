@@ -6,7 +6,7 @@
 
 <br>
 
-![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-0D1117?style=flat-square&labelColor=0D1117&color=2EA043)
+![Degree](https://img.shields.io/badge/B.Tech-AI%20/ML-0D1117?style=flat-square&labelColor=0D1117&color=2EA043)
 ![University](https://img.shields.io/badge/Nirma%20University-2024--2028-0D1117?style=flat-square&labelColor=0D1117&color=2EA043)
 ![Location](https://img.shields.io/badge/Ahmedabad-Gujarat%2C%20India-0D1117?style=flat-square&labelColor=0D1117&color=2EA043&logo=googlemaps&logoColor=2EA043)
 
