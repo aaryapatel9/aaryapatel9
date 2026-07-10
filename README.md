@@ -32,9 +32,8 @@
 AI/ML enthusiast currently pursuing my B.Tech in Computer Science at Nirma University. I like building things that sit at the intersection of machine learning and solid backend engineering — training models on one side, shipping them behind clean APIs on the other. Still early in the journey, still shipping.
 
 ```bash
-ROLE     = "AI/ML Engineer (Aspiring)"
-EXP      = "B.Tech CSE, Nirma University (2024–2028)"
-DOMAIN   = "Machine Learning · Deep Learning · Backend Systems"
+ROLE     = "AI/ML Undergraduate Engineer"
+EXP      = "B.Tech AI/ML, Nirma University (2024–2028)"
 STACK    = "Python · C++ · TypeScript · PyTorch · TensorFlow · scikit-learn · FastAPI · React"
 OPEN_TO  = "Open to discussing relevant opportunities"
 ```
