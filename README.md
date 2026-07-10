@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:39FF14&height=200&section=header&text=Aarya%20Patel&fontSize=52&fontColor=39FF14&fontAlignY=40&desc=AI/ML%20Engineer%20in%20the%20Making&descAlignY=62&descSize=18&descColor=C9D1D9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2EA043&height=200&section=header&text=Aarya%20Patel&fontSize=52&fontColor=2EA043&fontAlignY=40&desc=AI/ML%20Engineer%20in%20the%20Making&descAlignY=62&descSize=18&descColor=C9D1D9&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami;Aarya+Patel+%E2%80%94+AI%2FML+Engineer+in+progress;%24+cat+stack.txt;Python+%7C+PyTorch+%7C+TensorFlow+%7C+FastAPI+%7C+React;%24+echo+%22Always+learning%2C+always+building%22" /></a>
-
-<br>
-
-![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
-![University](https://img.shields.io/badge/Nirma%20University-2024--2028-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
-![Location](https://img.shields.io/badge/Ahmedabad-Gujarat%2C%20India-0D1117?style=flat-square&labelColor=0D1117&color=39FF14&logo=googlemaps&logoColor=39FF14)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2EA043&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami;Aarya+Patel+%E2%80%94+AI%2FML+Engineer+in+progress;%24+cat+stack.txt;Python+%7C+PyTorch+%7C+TensorFlow+%7C+FastAPI+%7C+React;%24+echo+%22Always+learning%2C+always+building%22" /></a>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=firefoxbrowser&logoColor=0D1117)](https://aaryarpatel.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/aarya-r-patel/)
-[![Email](https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:patelaaryar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/aaryapatel9)
+![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-0D1117?style=flat-square&labelColor=0D1117&color=2EA043)
+![University](https://img.shields.io/badge/Nirma%20University-2024--2028-0D1117?style=flat-square&labelColor=0D1117&color=2EA043)
+![Location](https://img.shields.io/badge/Ahmedabad-Gujarat%2C%20India-0D1117?style=flat-square&labelColor=0D1117&color=2EA043&logo=googlemaps&logoColor=2EA043)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aaryapatel9&color=39FF14&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/aaryapatel9?style=flat-square&color=39FF14&labelColor=0D1117&label=Followers)
-![Stars](https://img.shields.io/github/stars/aaryapatel9?style=flat-square&color=39FF14&labelColor=0D1117&label=Stars)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://aaryarpatel.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2EA043?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-r-patel/)
+[![Email](https://img.shields.io/badge/Email-2EA043?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelaaryar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-2EA043?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryapatel9)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=aaryapatel9&color=2EA043&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/aaryapatel9?style=flat-square&color=2EA043&labelColor=0D1117&label=Followers)
+![Stars](https://img.shields.io/github/stars/aaryapatel9?style=flat-square&color=2EA043&labelColor=0D1117&label=Stars)
 
 </div>
 
@@ -85,7 +85,7 @@ OPEN_TO  = "Open to discussing relevant opportunities"
 
 <div align="center">
 
-[![Education](https://img.shields.io/badge/B.Tech%20CSE%20%40%20Nirma%20University-2024--2028-39FF14?style=for-the-badge&logo=googlescholar&logoColor=0D1117)](https://github.com/aaryapatel9)
+[![Education](https://img.shields.io/badge/B.Tech%20CSE%20%40%20Nirma%20University-2024--2028-2EA043?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/aaryapatel9)
 
 </div>
 
@@ -95,7 +95,7 @@ OPEN_TO  = "Open to discussing relevant opportunities"
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-39FF14?style=for-the-badge&logo=leetcode&logoColor=0D1117)](https://leetcode.com/u/24bam003/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2EA043?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/24bam003/)
 
 </div>
 
@@ -105,10 +105,10 @@ OPEN_TO  = "Open to discussing relevant opportunities"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaryapatel9&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=aaryapatel9&theme=dark&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aaryapatel9&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=aaryapatel9&theme=dark&hide_border=true&background=0D1117&stroke=2EA043&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryapatel9&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryapatel9&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9" width="60%"/>
 
 </div>
 
@@ -118,7 +118,7 @@ OPEN_TO  = "Open to discussing relevant opportunities"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryapatel9&bg_color=0D1117&color=39FF14&line=39FF14&point=39FF14&area=true&area_color=39FF14&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryapatel9&bg_color=0D1117&color=2EA043&line=2EA043&point=2EA043&area=true&area_color=2EA043&hide_border=true" width="100%"/>
 
 </div>
 
@@ -140,14 +140,14 @@ current_focus:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=firefoxbrowser&logoColor=0D1117)](https://aaryarpatel.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://www.linkedin.com/in/aarya-r-patel/)
-[![Email](https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:patelaaryar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://aaryarpatel.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2EA043?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarya-r-patel/)
+[![Email](https://img.shields.io/badge/Email-2EA043?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelaaryar@gmail.com)
 
 <br>
 
 <i>"Still compiling. No errors yet."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:39FF14&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EA043&height=120&section=footer" width="100%"/>
 
 </div>
