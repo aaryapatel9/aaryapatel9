@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2EA043&height=200&section=header&text=Aarya%20Patel&fontSize=52&fontColor=2EA043&fontAlignY=40&desc=AI/ML%20Engineer%20in%20the%20Making&descAlignY=62&descSize=18&descColor=C9D1D9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2EA043&height=200&section=header&text=AARYA%20PATEL&fontSize=52&fontColor=2EA043&fontAlignY=40&desc=AI/ML%20Engineer%20in%20the%20Making&descAlignY=62&descSize=18&descColor=C9D1D9&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2EA043&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami;Aarya+Patel+%E2%80%94+AI%2FML+Engineer+in+progress;%24+cat+stack.txt;Python+%7C+PyTorch+%7C+TensorFlow+%7C+FastAPI+%7C+React;%24+echo+%22Always+learning%2C+always+building%22" /></a>
 
