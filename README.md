@@ -128,9 +128,8 @@ OPEN_TO  = "Open to discussing relevant opportunities"
 
 ```yaml
 current_focus:
-  learning: "Advanced Machine Learning & Deep Learning concepts"
-  building: "New AI/ML projects — details coming soon"
-  exploring: "Backend engineering with FastAPI"
+  learning: "GenAI, Agentic AI & Deep Learning concepts"
+  building: "New AI/ML projects"
   open_to: "Open to discussing relevant opportunities"
 ```
 
