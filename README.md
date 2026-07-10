@@ -73,8 +73,8 @@ OPEN_TO  = "Open to discussing relevant opportunities"
 
 | Achievement | Detail |
 |---|---|
-| 🎓 Academic Performance | 8.27 CGPA — B.Tech CSE, Nirma University |
-| 🧩 Problem Solving | Active problem solver on LeetCode |
+|  Academic Performance | 8.27 CGPA — B.Tech CSE, Nirma University |
+|  Problem Solving | Active problem solver on LeetCode |
 
 </div>
 
@@ -104,10 +104,7 @@ OPEN_TO  = "Open to discussing relevant opportunities"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaryapatel9&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=2EA043&icon_color=2EA043&text_color=C9D1D9" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=aaryapatel9&theme=dark&hide_border=true&background=0D1117&stroke=2EA043&ring=2EA043&fire=2EA043&currStreakLabel=2EA043&sideLabels=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryapatel9&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=2EA043&text_color=C9D1D9" width="60%"/>
 
 </div>
 
