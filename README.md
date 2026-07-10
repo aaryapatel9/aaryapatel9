@@ -28,7 +28,8 @@
 
 ### `$ cat about.md`
 
-AI/ML enthusiast currently pursuing my B.Tech in Computer Science at Nirma University. I like building things that sit at the intersection of machine learning and solid backend engineering — training models on one side, shipping them behind clean APIs on the other. Still early in the journey, still shipping.
+AI/ML undergraduate currently pursuing my B.Tech in Artificial Intelligence & Machine Leraning at Nirma University. Skilled in Python, Machine Learning, Deep Learning, NLP, and full-stack development. Experienced in building end-to-end AI applications using Transformers, FastAPI, PostgreSQL, and ReactJS. Developed 
+projects involving job market analytics, emotion detection, and intelligent recommendation systems with strong focus on practical deployment and data-driven solutions. Still early in the journey, still shipping.
 
 ```bash
 ROLE     = "AI/ML Undergraduate Engineer"
