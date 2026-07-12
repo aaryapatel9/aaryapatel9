@@ -84,7 +84,7 @@ OPEN_TO  = "Open to discussing relevant opportunities"
 
 <div align="center">
 
-[![Education](https://img.shields.io/badge/B.Tech%20CSE%20%40%20Nirma%20University-2024--2028-2EA043?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/aaryapatel9)
+[![Education](https://img.shields.io/badge/B.Tech%20AI/ML%20%40%20Nirma%20University-2024--2028-2EA043?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/aaryapatel9)
 
 </div>
 
