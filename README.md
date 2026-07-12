@@ -74,7 +74,7 @@ OPEN_TO  = "Open to discussing relevant opportunities"
 | Achievement | Detail |
 |---|---|
 |  Academic Performance | 8.27 CGPA — B.Tech AI/ML, Nirma University |
-|  Problem Solving | Active problem solver on LeetCode |
+|  Problem Solving | 300+ problems solved on LeetCode |
 
 </div>
 
